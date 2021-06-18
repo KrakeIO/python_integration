@@ -1,0 +1,9 @@
+/venv/*
+*.nbconvert.ipynb
+*.png
+*.pyc
+*.pid
+*.csv
+**/*.DS_Store
+**/*.dat
+**/*.json
