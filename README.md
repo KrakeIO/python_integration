@@ -1,4 +1,4 @@
-# SandBox for testing Covest
+# SandBox for local testing environment
 
 ## Pre-requisities
 - Python 3.8
